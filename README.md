@@ -10,4 +10,4 @@ I have used visual studio code for this application
 2. Run 'npm start'
 
 # Screenshot
-![](/Screenshot (156).png)
+![](table.png)
